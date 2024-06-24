@@ -12,6 +12,8 @@
 - [5. Trabalhando com CEP e acessando uma API](#05-trabalhando-com-cep-e-acessando-uma-api)
 - [6. Referência](#referência)
 
+<br>
+
 ## Objetivos do curso
 
 - Aprenda a validar documentos utilizando Python 3
